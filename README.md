@@ -1,4 +1,4 @@
-# 🌾 Context-Aware Disease Diagnosis: A Multimodal CNN-LSTM for Farms
+# 🌾 Disease Diagnosis: A Multimodal CNN-LSTM for Farms
 
 <p align="center">
   <img 
