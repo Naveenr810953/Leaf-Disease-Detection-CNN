@@ -13,7 +13,7 @@ import numpy as np
 import os
 
 # --- 3. Define Parameters ---
-IMAGE_SIZE = 224
+IMAGE_SIZE = 224    
 BATCH_SIZE = 32
 EPOCHS = 15  # Using 15 for a good balance of speed and accuracy
 CHANNELS = 3
